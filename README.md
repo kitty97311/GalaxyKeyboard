@@ -1,1 +1,1 @@
-This is burmese keyboard which is from generous client AyeMin.
+This is burmese keyboard which is asked from generous client AyeMin.
